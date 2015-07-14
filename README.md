@@ -1,4 +1,4 @@
-# What the hell is this? 
+# What is this? 
 Cryptography application using Python
 
 # Method
